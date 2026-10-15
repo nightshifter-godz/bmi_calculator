@@ -4,15 +4,15 @@ just tried python basics, this is simply used to calculate a person's bmi
 # BMI calcu details
 # You have to provide details first, as you can see below I came up with my own example for names, height, and weight
 
-name1 = "ALYGANDA"
+name1 = "ALYSSA"
 height_m1 = 3
 weight_kg1 = 40
 
-name2 = "Jhocey"
+name2 = "Jasper"
 height_m2 = 6
 weight_kg2 = 78
 
-name3 = "Mikhaiah"
+name3 = "Micky"
 height_m3 = 8
 weight_kg3 = 87
 
